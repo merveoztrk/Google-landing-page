@@ -3,7 +3,7 @@ Google-Landing-Page
 Description
 
 Google landing page is included in this project.Google landing page is included in this project. You can download it from here and open it with vs code and run it. 
-This is what the project looks like. http://127.0.0.1:5500/index.html
+
 
 
 
